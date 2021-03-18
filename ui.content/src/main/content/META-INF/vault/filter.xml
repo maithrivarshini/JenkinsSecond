@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/JenkinsTest" mode="merge"/>
+    <filter root="/content/JenkinsTest" mode="merge"/>
+    <filter root="/content/dam/JenkinsTest" mode="merge"/>
+</workspaceFilter>
